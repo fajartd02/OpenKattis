@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <string.h>
 int main()
@@ -32,3 +33,14 @@ int main()
     }
     printf("%d\n", count);
 }
+=======
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int kasus;
+    cin >> kasus;
+    
+}
+>>>>>>> 779fbb5 (Sisa2 belom dipush dude)
